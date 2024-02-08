@@ -1,0 +1,1 @@
+Implemented a Java-based simulation for optimal pathfinding in a post-apocalyptic world, applying graph theory, Dijkstra's algorithm, and LARAC. The project emphasized algorithmic efficiency, GUI development, and practical application of computer science theory.
